@@ -1,6 +1,6 @@
-# Coding2 lab work MingquanYang 22003678
 # Homework Project
 
+## Project List
 1. **Project One: [Project Name](#)**
    - Description: Brief introduction to Project One goes here.
    - [YouTube Video Introduction](https://www.youtube.com/watch?v=0Bhqpi2NIuE)
