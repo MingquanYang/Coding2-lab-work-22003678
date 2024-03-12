@@ -5,7 +5,7 @@
     <title>MingquanYang's Lab Project</title>
 </head>
 <body>
-    <h1>Project List</h1>
+    <h1>MingquanYang's lab work</h1>
     <ol>
         <li>
             <h2>Project One: Code is the poem</h2>
