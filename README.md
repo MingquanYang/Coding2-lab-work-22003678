@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<coding2-lab-work-MingquanYang-22003678 lab work>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,6 +29,5 @@ Through this project, I hope to enable the audience to explore the dynamic inter
         </li>
     </ol>
 </body>
-</html>
 
 
